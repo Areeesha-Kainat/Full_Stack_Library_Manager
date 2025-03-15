@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": "2018",
+        "genre": "Self Help",
+        "read": true
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelh",
+        "year": "1988",
+        "genre": "Fiction",
+        "read": false
+    }
+]
